@@ -1,3 +1,3 @@
-body{background-image: url(../images/background.png);display: flex;vertical-align: center;align-items: center;justify-content: center;}
-.main_con{background-image: linear-gradient(#9A5EE099,#FC6AB1cc);width: 200px;margin-top: 0%;  height: 200px;align-self: center;border-radius: 100%;display: flex;justify-content: center;align-items: center;border-style: solid;border-width: 2px;border-color: #ffffff55;}
-h3{color: white;}
+body{background-color:#0C0409;display: flex;align-items: center;justify-content: center;}
+.main_con{background-image: url(../images/background.png);background-size: 300px 400px; overflow: hidden; background-blend-mode: soft-light; width: 200px;margin-top: 0%;  height: 200px;align-self: center;border-radius: 100%;display: flex;justify-content: center;align-items: center;border-style: solid;border-width: 2px;border-color: #ffffff55;}
+h1{color:#0C04098e;font-family: sans-serif;size: 400;}
